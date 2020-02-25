@@ -1,0 +1,9 @@
+
+Credentials cache: API:69229
+        Principal: odelvaux@S19.BE
+
+  Issued                Expires               Principal
+Feb  5 13:52:46 2020  Feb  5 23:52:46 2020  krbtgt/S19.BE@S19.BE
+Feb  5 13:52:47 2020  Feb  5 23:52:46 2020  ldap/ldap-master.s19.be@S19.BE
+Feb  5 13:52:47 2020  Feb  5 23:52:46 2020  HTTP/san-ssd.s19.be@S19.BE
+Feb  5 14:04:16 2020  Feb  5 23:52:46 2020  host/vogsphere.s19.be@S19.BE
